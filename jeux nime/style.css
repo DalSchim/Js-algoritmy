@@ -1,0 +1,11 @@
+.planche{
+    display: flex;
+    width: 100%;
+    gap: 10px;
+    justify-content: center;
+}
+.baton{
+    width: 10px;
+    background-color: black;
+    height: 20px;
+}
